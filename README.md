@@ -1,4 +1,4 @@
-# Flask Stripe MySQL Bootstrapped...
+# Flask Stripe MySQL Bootstrapped.
 This template is ready for scaling and is easy to deploy.
 
 ![Signup, Login and Stripe Demo!](demo/showcase.gif)
